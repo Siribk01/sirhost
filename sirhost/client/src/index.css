@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Sora', sans-serif; overflow-x: hidden; background: #fff; }
+
+::-webkit-scrollbar       { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #0d1e40; }
+::-webkit-scrollbar-thumb { background: #2e73f8; border-radius: 3px; }
+
+a { text-decoration: none; }
+button { font-family: 'Sora', sans-serif; }
+input, select, textarea { font-family: 'Sora', sans-serif; }
